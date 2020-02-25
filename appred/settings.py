@@ -25,7 +25,7 @@ SECRET_KEY = '4jw4&l2_m%wx@bq(a48_5e)mrd7_hg@f7%qkhx4vo-08b4tf5)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['localhost','myhostup22.ddns.net','187.171.91.225']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
